@@ -14,21 +14,14 @@ iOS Engineer with 6+ years of experience building scalable and maintainable mobi
 - Adapter / Builder Patterns
 - State Machines
 
-## Selected Experience
-**All-Win.Software — Mobile iOS Engineer (Jun 2020 – Present)**
-- Maintained and evolved an internal iOS framework used across multiple consumer apps.
-- Standardized component design with Adapter, Builder, and State Machine patterns.
-- Managed framework versioning and releases, improving stability for flagship apps.
-- Built a UIKit-based internal form builder driven by JSON schemas.
-- Implemented custom data visualization components for drilling analytics.
-- Delivered accessibility framework work for consistency and testing.
+## Debugging is like being the detective in a crime movie where you are also the murderer
 
-## Featured Projects
-- **ReadingLogs** — SwiftUI + SwiftData CRUD with relationships
-- **Fructus** — Onboarding + content presentation with AppStorage
-- **Africa** — Tabs, MapKit, AVKit, JSON-driven UI
-- **Touchdown** — E‑commerce UI + App Coordinator
-- **SwiftUI Messaging App** — Messaging UI prototype with Coordinator
+- 🌱 Currently focused on SwiftUI architecture patterns and scalable iOS UI.
+- 🤝 Open to collaborating on iOS apps and UI-heavy prototypes.
+- 👨‍💻 iOS Engineer specialized in Swift, UIKit, and SwiftUI.
+- 👀 Ask me about modular architecture, Coordinator pattern, and UI components.
+- 📫 Reach me at netman.arauz@gmail.com
+- ⚡ Fun fact: I enjoy drawing while listening to music.
 
 ## Education
 - **MSc, Business Management** — UNAN Managua (2011–2013)
@@ -42,3 +35,5 @@ iOS Engineer with 6+ years of experience building scalable and maintainable mobi
 - Email: netman.arauz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/norman-arauz/
 - Location: Matagalpa, Nicaragua
+
+---
