@@ -21,7 +21,7 @@ iOS Engineer with 6+ years of experience building scalable and maintainable mobi
 - 👨‍💻 iOS Engineer specialized in Swift, UIKit, and SwiftUI.
 - 👀 Ask me about modular architecture, Coordinator pattern, and UI components.
 - 📫 Reach me at netman.arauz@gmail.com
-- ⚡ Fun fact: I enjoy drawing while listening to music.
+- ⚡ Fun fact: I enjoy coding while listening to music.
 
 ## Education
 - **MSc, Business Management** — UNAN Managua (2011–2013)
