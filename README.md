@@ -34,6 +34,7 @@ iOS Engineer with 6+ years of experience building scalable and maintainable mobi
 ## Connect
 - Email: netman.arauz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/norman-arauz/
+- Medium: https://medium.com/@netman.arauz
 - Location: Matagalpa, Nicaragua
 
 ---
